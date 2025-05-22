@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code in Python
 - 💞️ I’m looking to collaborate on integrating AI into my Data Engineering routine
 - 😄 Pronouns: her/she
-- ⚡ Fun fact: Started baking
+- ⚡ Fun fact: Started baking including pizza
 
 <!---
 ravalihumana/ravalihumana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
